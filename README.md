@@ -43,7 +43,7 @@ smart_assistant/
 
 1. Clone the repository:
 
-   git clone https://github.com/labanya-1/-Smart-Assistant-for-Research-Summarization.git
+   
    cd -Smart-Assistant-for-Research-Summarization
    Create and activate a virtual environment (optional but recommended):
    
@@ -60,7 +60,7 @@ streamlit run app.py
 
 loom demo walkthrough
 
-https://www.loom.com/share/f6cbc8fcd1ef491182acd866794b0d0e?sid=ec712010-465a-4300-b0a9-e14da287d640
+
 
 
 👩‍💻 Author
