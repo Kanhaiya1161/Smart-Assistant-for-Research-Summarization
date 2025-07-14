@@ -58,7 +58,7 @@ source venv/bin/activate    # or venv\Scripts\activate on Windows
 streamlit run app.py
 
 
-loom demo walkthrough
+YouTube link for demo walkthrough :- https://youtu.be/yNeejaZOK6c
 
 
 
